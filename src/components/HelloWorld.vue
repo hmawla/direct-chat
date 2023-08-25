@@ -12,7 +12,9 @@
           <div class="control" style="width:100%">
             <input ref="generator" v-model="phone" id="generator" class="input is-medium is-rounded" type="text" placeholder="Phone">
           </div>
-
+        </div>
+        <div>
+          Developed and designed by <a href="https://hmawla.com">hmawla.com</a>
         </div>
       </div>
     </div>
