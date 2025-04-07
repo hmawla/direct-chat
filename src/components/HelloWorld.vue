@@ -10,7 +10,7 @@
             </button>
           </a>
           <div class="control" style="width:100%">
-            <input ref="generator" v-model="phone" id="generator" class="input is-medium is-rounded" type="text" placeholder="Phone">
+            <input ref="generator" v-model="phone" id="generator" class="input is-medium is-rounded" type="tel" placeholder="Phone">
           </div>
         </div>
         <div>
