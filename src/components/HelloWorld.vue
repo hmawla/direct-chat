@@ -2,7 +2,7 @@
   <div id="GUIDGenerator">
     <div class="columns is-centered ">
       <div class="column is-5 is-vertical-centered">
-        <h1 style="font-size: 2em; margin-bottom: 10px">Direct Chat</h1>
+        <h1 style="font-size: 2em; margin-bottom: 10px">WhatsApp Direct Chat</h1>
         <div class="field has-addons" style="margin: 20px">
           <a :href="'https://wa.me/' + phone">
             <button id="generateButton" class="control button is-medium is-primary is-rounded">
